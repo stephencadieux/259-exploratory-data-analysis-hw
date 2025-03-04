@@ -3,7 +3,7 @@
 # List students working with below:
 
 library(tidyverse)
-library(lubridate)
+library(lubridate) 
 library(DataExplorer)
 
 #> These data are drawn from the fivethirtyeight article:
