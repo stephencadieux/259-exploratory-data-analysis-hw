@@ -193,3 +193,4 @@ plot_monthly_temp <- function(df, month_abbr) {
 
 # Generate graphs for each month
 map(levels(ds$month), ~ plot_monthly_temp(ds, .x))
+
